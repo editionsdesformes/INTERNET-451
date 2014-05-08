@@ -3,11 +3,10 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="user-scalable=no, initial-scale = 1, minimum-scale = 1, maximum-scale = 1, width=device-width">
-        <link rel="stylesheet" href="style4.css" />
-                <link rel="stylesheet" media="screen and (max-width:768px)" href="ipad4.css" />
-                <link rel="stylesheet" media="screen and (max-width:1024px)" href="ipadbis4.css" />
-                <link rel="stylesheet" media="screen and (max-width:480px)" href="iphone.css" />
-
+        <link rel="stylesheet" href="css/style4.css" />
+        <link rel="stylesheet" media="screen and (max-width:768px)" href="css/ipad4.css" />
+        <link rel="stylesheet" media="screen and (max-width:1024px)" href="css/ipadbis4.css" />
+        <link rel="stylesheet" media="screen and (max-width:480px)" href="css/iphone.css" />
 
         <title>Internet/451°F</title>
         <link rel="icon" type="image/x-icon" href="favicon.ico" />
@@ -15,23 +14,21 @@
 
     <body>
         <h6>
-		01 Jan 2014</br>&darr;</br><script type="text/javascript" src="http://www.24webclock.com/clock24.js"></script>
-<table border="0" bgcolor="#000000" cellspacing=1 cellpadding=3 class="clock24st" style="line-height:14px; padding:0;">
-<tr><td bgcolor="black" class="clock24std" style="font-family:arial; font-weight: bold; font-size:14px;"><a href="http://www.russianwoman.ca/index.php?Language=French"></a> <style="text-decoration:none;"><span class="clock24s" id="clock24_53709" style="color:white;">horloge html</span></a></td></tr>
-</table>
-<script type="text/javascript">
-var clock24_53709 = new clock24('53709',60,'%dd %M %yyyy','fr');
-clock24_53709.daylight('FR'); clock24_53709.refresh();
-</script>
+		01 Jan 2014</br>&darr;</br>
+        <?php
+        // affiche la date du jour au format français
+        setlocale(LC_TIME, "fr_FR");
+        echo strftime("%d %b %Y", strtotime(date('c')));
+        ?>
        </h6>
        
 <header><span style="color:blue">Internet / 451°F</span> </br> haut débit&thinsp;: <i>30 méga</i></br> modem wi&#64257; 100M*</header>
 
 <nav> 
 	<ul id="menu_horizontal">
-		<li class="bouton_gauche"><a href="index.html">Présentation</a></li>
+		<li class="bouton_gauche"><a href="index.php">Présentation</a></li>
 		<li class="bouton_gauche"><a href="liens.php">Liens</a></li> 
-		<li class="bouton_gauche"><a href="apropos.html">Crédits</a></li>
+		<li class="bouton_gauche"><a href="apropos.php">Crédits</a></li>
     </ul>
 </nav>
 <section>
