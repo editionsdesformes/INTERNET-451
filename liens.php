@@ -51,7 +51,7 @@
             $adresses[] = 'http://phototheque.in2p3.fr/main.php?g2_itemId=2136';
             $adresses[] = 'http://assistance.orange.fr/connecter-la-playstation-3-a-la-livebox-en-ethernet-2791.php#';
             $adresses[] = 'http://tpetelephone.blogspot.fr/p/ii-les-ondes-utilisees-pour-les.html';
-            $adresses[] = 'http://www.vosgesmatin.fr/actualite/2013/10/08/debits- internet-vers-la-fin-du-flou';
+            $adresses[] = 'http://www.vosgesmatin.fr/actualite/2013/10/08/debits-internet-vers-la-fin-du-flou';
             $adresses[] = 'http://www.materiel.net/cable-reseau/cable-gb-ethernet-1m-vert-50294.html';
             $adresses[] = 'http://cyberbase-compiegne.over-blog.com';
             $adresses[] = 'http://ondelio.wordpress.com';
