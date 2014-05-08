@@ -40,14 +40,14 @@
         	<?php
 
             $adresses[] = 'http://fr.wikipedia.org/wiki/Prise_de_t%C3%A9l%C3%A9phone';
-            $adresses[] = 'http://www.felinewave.com/wordpress/2009/05/31/utiliser-les-prises-telephoniques-pour-le-reseau-ethernet';
+            $adresses[] = 'http://www.felinewave.com/wordpress/2009/05/31/utiliser-les-prises-telephoniques-pour-le-reseau-ethernet/';
             $adresses[] = 'http://www.telephonie-pratique.com/accueil/telephonie-fixe/nettoyez-votre-prise-telephonique';
             $adresses[] = 'http://fr.wikipedia.org/wiki/WiMAX';
             $adresses[] = 'http://www.www.blog.lgtel.fr';
             $adresses[] = 'http://www.internetparsatellite.net/index.php/t/15/n/349/satellite-ka-sat.html';
             $adresses[] = 'http://www.123savoie.com/photo-55040-antennes-wimax.html';
             $adresses[] = 'http://www.etoileinformatique.com/adaptateur-/736-prise-telephone-gigogne-rj11-.html';
-            $adresses[] = 'http://www.semageek.com/veille/google-considere-deployer-la-fibre-optique-en-europe';
+            $adresses[] = 'http://www.semageek.com/veille/google-considere-deployer-la-fibre-optique-en-europe/';
             $adresses[] = 'http://phototheque.in2p3.fr/main.php?g2_itemId=2136';
             $adresses[] = 'http://assistance.orange.fr/connecter-la-playstation-3-a-la-livebox-en-ethernet-2791.php#';
             $adresses[] = 'http://tpetelephone.blogspot.fr/p/ii-les-ondes-utilisees-pour-les.html';
@@ -65,10 +65,10 @@
             $adresses[] = 'http://tegralis.fr/serveur-informatique-datacenter-infrastructure-virtualisation-revendeur-ibm-nantes-bladecenter-lames.html';
             $adresses[] = 'http://www.franceinfo.fr/environnement/multiplier-le-nombre-d-antennes-relais-pour-etre-moins-expose-aux-ondes-1121023-2013-08-26';
             $adresses[] = 'http://www.sur-la-toile.com/discussion-128601-1-cle-WEP-routeur-sa-veut-dire-quoi-.html';
-            $adresses[] = 'http://blog.mavideosurveillance.com/FR/20110616/antenne-wifi-yagi-exterieure';
-            $adresses[] = 'http://didoune.fr/blog/2009/03/28/stocker-et-partager-ses-donnees-gratuitement-sur-internet';
+            $adresses[] = 'http://blog.mavideosurveillance.com/FR/20110616/antenne-wifi-yagi-exterieure/';
+            $adresses[] = 'http://didoune.fr/blog/2009/03/28/stocker-et-partager-ses-donnees-gratuitement-sur-internet/';
             $adresses[] = 'http://www.enjoyspace.com/fr/news/un-satellite-europeen-surpuissant-sur-orbite';
-            $adresses[] = 'http://www.1and1.fr/serveur';
+            $adresses[] = 'http://www.1and1.fr/serveur/';
             $adresses[] = 'http://www-igm.univ-mlv.fr/~dr/XPOSE2010/inernetsatellite/application.html';
             $adresses[] = 'http://french.wifiusbadapters.com/china-external_antenna_wifi_adapter_gwf_3c1t-100323.html';
             $adresses[] = 'http://www.ariase.com/fr/guides/nra-noeud-raccordement.html';
